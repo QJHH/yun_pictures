@@ -12,14 +12,14 @@
 
 4. **对于企业可开通团队空间并邀请成员，共享图片并实时协同编辑图片，提高团队的协作效率。**
 
-   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E6%9C%AA%E7%99%BB%E9%99%86%E7%9A%84%E4%B8%BB%E9%A1%B5.png" width="600px">
+   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E6%9C%AA%E7%99%BB%E9%99%86%E7%9A%84%E4%B8%BB%E9%A1%B5.png" width="300px">
 
-   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%AE%A1%E6%A0%B8%E5%9B%BE%E7%89%87.png" width="600px">
+   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%AE%A1%E6%A0%B8%E5%9B%BE%E7%89%87.png" width="300px">
 
-   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E4%BB%A5%E5%9B%BE%E6%90%9C%E5%9B%BE%E5%8A%9F%E8%83%BD.png" width="600px">
+   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E4%BB%A5%E5%9B%BE%E6%90%9C%E5%9B%BE%E5%8A%9F%E8%83%BD.png" width="300px">
 
-   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/AI%E6%89%A9%E5%9B%BE%E5%8A%9F%E8%83%BD.png" width="600px">
+   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/AI%E6%89%A9%E5%9B%BE%E5%8A%9F%E8%83%BD.png" width="300px">
 
-   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%AE%9E%E6%97%B6%E7%BC%96%E8%BE%913.png" width="600px">
+   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%AE%9E%E6%97%B6%E7%BC%96%E8%BE%913.png" width="300px">
 
 ### 项目的三大阶段：
