@@ -1,4 +1,4 @@
-# 智能云图库项目
+# 智能云图库项目（最终功能显示在项目结果图片中）
 
 ## 基于SpringBoot+COS对象存储+Redis+AI+WebSocket的企业级智能协同云图库管理平台，核心功能可分为四大类，分三个阶段开发完成。
 
@@ -15,6 +15,8 @@
    <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E6%9C%AA%E7%99%BB%E9%99%86%E7%9A%84%E4%B8%BB%E9%A1%B5.png" width="300px">
 
    <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%AE%A1%E6%A0%B8%E5%9B%BE%E7%89%87.png" width="300px">
+
+   <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%A4%9A%E7%BB%B4%E6%90%9C%E7%B4%A2%E6%8C%89%E9%A2%9C%E8%89%B2%E6%90%9C%E5%9B%BE.png" width="300px">
 
    <img src="https://github.com/QJHH/yun_pictures/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%9C%E5%9B%BE%E7%89%87/%E4%BB%A5%E5%9B%BE%E6%90%9C%E5%9B%BE%E5%8A%9F%E8%83%BD.png" width="300px">
 
